@@ -1,2 +1,3 @@
-# liff-using-amplify-console-handson
-Handson - LIFF app using Amplify Console
+# Develop LIFF app using Amplify Console
+
+EN｜[JA](./README-ja.md)
